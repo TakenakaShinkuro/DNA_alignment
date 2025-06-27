@@ -14,14 +14,11 @@
 
 ## 🗂️ ファイル構成
 
-├── distance_matrix.py # 本プログラム
-├── LAB_178_16s.fasta # 入力用の16S配列FASTAファイル（例）
-├── LAB_178_dist_matrix.tsv # 出力される距離マトリックス（例）
+├── align_distance.py # 本プログラム
+├── LAB_178_16s.fasta # 入力用の16S配列FASTAファイル
+├── LAB_178_dist_matrix.tsv # 出力される距離マトリックス
 ├── README.md # 本ファイル
 
-markdown
-コピーする
-編集する
 
 ## 🚀 実行方法
 
@@ -53,13 +50,8 @@ out_path   = '出力ファイルのパス'
 LAB_178_dist_matrix.tsv
 → 種間の距離マトリックスが出力されます。ファイルはタブ区切りのテキストです。
 
-📑 ライセンス
-MIT License
 
 🙋‍♂️ 著者
-Takenaka Shinkuro (2020)
+Takenaka Shinkuro (2021)
 本ツールは次の論文の解析の一部として開発されました。
-
-"Niche construction in the human-associated Lactobacillus plantarum lineage"
-FEMS Microbiology Letters, 2021.
-DOI: 10.1093/femsle/fnab117
+Shinkuro Takenaka, Takeshi Kawashima, Masanori Arita, A sugar utilization phenotype contributes to the formation of genetic exchange communities in lactic acid bacteria, FEMS Microbiology Letters, Volume 368, Issue 17, September 2021, fnab117, https://doi.org/10.1093/femsle/fnab117
