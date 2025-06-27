@@ -14,9 +14,12 @@
 
 ## 🗂️ ファイル構成
 
-├── align_distance.py # 本プログラム\n
-├── LAB_178_16s.fasta # 入力用の16S配列FASTAファイル\n
-├── LAB_178_dist_matrix.tsv # 出力される距離マトリックス\n
+├── align_distance.py # 本プログラム
+
+├── LAB_178_16s.fasta # 入力用の16S配列FASTAファイル
+
+├── LAB_178_dist_matrix.tsv # 出力される距離マトリックス
+
 ├── README.md # 本ファイル
 
 
