@@ -49,7 +49,7 @@ LAB_178_dist_matrix.tsv
 → 種間の距離マトリックスが出力されます。ファイルはタブ区切りのテキストです。
 
 
-### 🙋‍♂️ 著者
+## 🙋‍♂️ 著者
 Takenaka Shinkuro (2021)
 本ツールは次の論文の解析の一部として開発されました。
 Shinkuro Takenaka, Takeshi Kawashima, Masanori Arita, A sugar utilization phenotype contributes to the formation of genetic exchange communities in lactic acid bacteria, FEMS Microbiology Letters, Volume 368, Issue 17, September 2021, fnab117, https://doi.org/10.1093/femsle/fnab117
