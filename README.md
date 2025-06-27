@@ -45,9 +45,13 @@ python distance_matrix.py
 python
 コピーする
 編集する
+
 input_path = '入力FASTAファイルのパス'
+
 out_path   = '出力ファイルのパス'
-📤 出力ファイル
+
+## 📤 出力ファイル
+
 LAB_178_dist_matrix.tsv
 → 種間の距離マトリックスが出力されます。ファイルはタブ区切りのテキストです。
 
